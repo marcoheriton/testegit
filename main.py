@@ -1,5 +1,5 @@
 def main():
-    print("Hello from aulagit!")
+    print("Hello everyone!")
 
 
 if __name__ == "__main__":
